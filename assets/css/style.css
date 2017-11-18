@@ -1,11 +1,11 @@
 body{
-	background:	#f9c3c3;
+	background:	#ffffff;
 }
 img {
 	width: 30%;
 }
 h1, h2, #winlossmessage {
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Roboto', sans-serif; 
 	font-weight: lighter;
 	
 }
@@ -20,7 +20,7 @@ p, ul {
 font-family: 'Source Sans Pro', sans-serif;
 }
 .header{
-	background:#ba809a;
+	background:#16e5a3;
 	color: white;
 	text-align: center;
 	font-size: 30px;

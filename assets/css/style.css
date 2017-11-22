@@ -31,10 +31,17 @@ font-family: 'Source Sans Pro', sans-serif;
 	display: block;
 
 }
-.numberToMatch, .score {
+#score {
 	font-size: 80px;
 	text-align: center;
 }
+
+#numberToMatch {
+	font-size: 25px;
+	font-style: bold;
+	text-align: center;
+}
+
 .adding {
 	background: #ffe4b9;
 	color: black;
